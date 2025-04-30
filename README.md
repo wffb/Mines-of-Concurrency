@@ -7,9 +7,7 @@ A demo about applying different types of concurrency control mechanisms.
 
 This project aims to simulate the following system by applying the means of concurrent control:
 
-
-
-![image-20250430195943639](README.assets/image-20250430195943639.png)
+![](README.assets/1.jpg)
 
 
 
