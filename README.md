@@ -7,7 +7,7 @@ A demo about applying different types of concurrency control mechanisms.
 
 This project aims to simulate the following system by applying the means of concurrent control:
 
-![](README.assets/1.jpg)
+![](img/1.jpg)
 
 
 
